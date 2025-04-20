@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+psutil
+requests
+scikit-learn
+yara-python
