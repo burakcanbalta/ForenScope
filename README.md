@@ -57,7 +57,7 @@ ForenScope/
 
 1. **Depoyu Klonlayın**  
    ```bash
-   git clone https://github.com/<KULLANICI_ADI>/ForenScope.git
+   git clone https://github.com/burakcanbalta/ForenScope.git
    cd ForenScope
    ```
 
